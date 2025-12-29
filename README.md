@@ -42,4 +42,16 @@ demonstrates the use of Object-Oriented Programming (OOP) concepts.
 4. Compile and run the `Drive.java` file
 5. Follow the on-screen menu to select shapes and view results
 
+---
+
+## 📸 Sample Output Screenshots
+
+### Main Menu
+![Main Menu](screenshots/main-menu.png)
+
+### 2D Shape Output
+![2D Output](screenshots/2D-circle-output.png)
+
+### 3D Shape Output
+![3D Output](screenshots/3D-sphere-output.png)
 
